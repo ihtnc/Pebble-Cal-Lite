@@ -1,11 +1,11 @@
-{"friendlyVersion": "1.0",
-    "versionDefName": "APP_RESOURCES",
-    "media":
-    [
-     {
-     "type":     "png",
-     "defName":"IMAGE_MENU_ICON",
-     "file":"images/menu_icon.png"
-     }
-     ]
+{
+    "media": [
+        {
+            "defName": "IMAGE_MENU_ICON",
+            "type": "png",
+            "file": "images/menu_icon.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
 }
